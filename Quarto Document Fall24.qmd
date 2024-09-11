@@ -1,0 +1,22 @@
+---
+title: "ALA_ToolsChallanges_Fall2024"
+author: "Alex Awtrey"
+format: html
+editor: visual
+---
+
+**Alex Awtrey** ala0078\@auburn.edu
+
+Tools and Challanges for the Modern Scientist
+
+WILD7970 Fall 2024
+
+# Declines in Disruptive Science
+
+## August 30, 2024
+
+One of the historically disruptive papers in virology is the 1970 paper by Howard Temin titled "RNA dependent DNA polymerase in virions of Rous sarcoma virus". This paper was significant as it identified transcriptase—a key enzyme enabling RNA to undergo reverse transcription into DNA— which was a groundbreaking discovery that disagreed with the theory of a unidirectional flow of genetic information from DNA, to RNA to proteins. The discovery of transcriptase shed light on the way retroviruses like HIV work and paved the way for the advancement of antiretroviral treatments that revolutionized the management of HIV/AIDS patients. This breakthrough became the foundation for molecular biology methods such as generating complementary DNA (cDNA) and employing reverse transcription polymerase chain reaction (RT PCR) which is an "everyday" tool in virology research.
+
+In last 5 years, one of the most disruptive papers in the field of virology is the 2020 research paper by Zhou and colleagues titled "An outbreak of pneumonia linked to a new coronavirus likely originating from bats ". This study conducted an examination of SARS CoV–2，the virus that causes COVID–19 and established it as a newly discovered coronavirus closely associated with bat coronaviruses, providing insights into its genetic material which is essential for developing diagnostic tests and vaccines. The swift sharing and distribution of this data enabled scientists worldwide understand the structure of the virus and paved the way for the creation of vaccines in a very short period of time. This research enhanced our knowledge of coronaviruses and transformed the field of vaccine development.
+
+The disruptivness of virology research remains consistent as it evolves its focus over time. Today virology thrives on innovation spearheaded by cutting edge technologies like CRISPR for modifying genes, AI for drug development, and mRNA technology for vaccine creation. The recent COVID 19 pandemic has emphasized the consistent evolution of virology research. Discoveries that completely change our understanding viruses, like the discovery of transcriptase, may not happen very often; instead we're seeing a new type of "disruption” driven by combining different disciplines and fast technological progressions.
