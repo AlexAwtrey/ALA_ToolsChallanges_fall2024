@@ -21,12 +21,32 @@ In last 5 years, one of the most disruptive papers in the field of virology is t
 
 The disruptivness of virology research remains consistent as it evolves its focus over time. Today virology thrives on innovation spearheaded by cutting edge technologies like CRISPR for modifying genes, AI for drug development, and mRNA technology for vaccine creation. The recent COVID 19 pandemic has emphasized the consistent evolution of virology research. Discoveries that completely change our understanding viruses, like the discovery of transcriptase, may not happen very often; instead we're seeing a new type of "disruption” driven by combining different disciplines and fast technological progressions.
 
-# Good enough practices in scientific computing
+# Scientific Computation
 
 ## September 6, 2024
 
-In my laboratory, scientific computing plays a minor role, however, we use tools like Excel for data analysis and management. From the open discussion, I noticed that my colleagues face challenges with Excel’s limitations for handling larger datasets or more complex analyses, where Excel's functionality may be limited or cumbersome. 
+In my laboratory, scientific computing plays a minor role, however, we use tools like Excel for data analysis and management. From the open discussion, I noticed that my colleagues face challenges with Excel’s limitations for handling larger datasets or more complex analyses. Challenges arise in handling larger datasets or complex analyses, where Excel's functionality may be limited or cumbersome. 
 
-Seeking advice from colleagues on the best tools for specific tasks seems the most beneficial, as it helps identify more efficient methods. Effective data management and real-time analysis ("working on data as you go") also seem essential. This ensures consistency and accuracy when processing data and storing it in applications like dropbox along the way helps to avoid errors. Moving beyond Excel, integrating more specialized tools like R, Python, or other analysis tools could enhance data visualization making research more streamlined.
+Seeking advice from colleagues on the best tools for specific tasks seems the most beneficial, as it helps identify more efficient methods. Effective data management and real-time analysis ("working on data as you go") also seem essential. This ensures consistency and accuracy when processing data while storing it in applications like Dropbox along the way to avoid losing your files. Moving beyond Excel, integrating more specialized tools like R, Python, or other analysis tools could enhance data visualization making research more streamlined.
 
-Collective knowledge-sharing has been a significant part of my academic growth. I believe this could prepare me to apply computational techniques in future work during my masters. As a non-thesis master's student, I don't have a project to gather and analyze data, however, i found this discussion very informative and hope to apply some of these tips to my collaborative efforts in my lab.
+Collective knowledge-sharing has been a significant part of my academic growth. I believe this could prepare me to apply computation techniques in future work during my master's. As a non-thesis master's student, I don't have a project to gather and analyze data, however, i found this discussion very informative and hope to apply some of these tips to my collaborative efforts in my lab. 
+
+# Peer Review
+
+## September 13, 2024
+
+Navigating conflicting reviewer feedback can be challenging but constructive. A significant issue is reviewer bias. Reviewers might bring their preferences into their evaluations, which can skew the input and lead to recommendations that may not be entirely objective. For instance, a reviewer might have a preference for a particular methodology or theoretical framework, Sometimes reviewers have been known to give feedback for personal gain such as by suggesting citations from their work. 
+
+When faced with feedback that I disagree with, I would first evaluate the comments in the context of my manuscript's objectives and methodology. I would try to understand the thought process behind each reviewer's suggestions, considering whether their points may highlight areas of improvement I had previously overlooked. To manage discrepancies between reviewers' feedback, I would weigh the merits of each perspective against the evidence and arguments presented in my manuscript. 
+
+In cases where feedback from one reviewer contradicts another, I address both sets of comments in my revision. I would draft a detailed response where I acknowledge the different opinions, justifying how I have chosen to address or incorporate their feedback. By clearly articulating my thought process and revising the manuscript to integrate the constructive elements from each reviewer's input, I would demonstrate my commitment to improving the quality of my research while maintaining the integrity of my original work. This approach will hopefully enhance the manuscript and foster a productive dialogue with reviewers, leading to a more refined publication.
+
+# Predatory Journal 
+
+## September 20, 2024
+
+Predatory journals undermine scientific credibility by bypassing rigorous peer reviews. This sometimes leads to flawed or false research getting published. In fields like virology, where good science is critical for public health, such publications can lead to harmful medical interventions or misguided policy decisions. These journals lower the standards of research, letting poorly designed studies gain legitimacy and affects governmental and public discourse.
+
+As misleading studies from predatory journals are often picked up by media or shared on social platforms, the public perception of science also suffers. This creates confusion and chaos, especially when discredited research is presented alongside legitimate studies. Misleading COVID-19 treatment and prevention claims, such as those regarding hydroxychloroquine, are examples of how these journals have amplified misinformation, further complicating public understanding of scientific consensus. 
+
+A notable example involved a retracted paper from MDPI’s Viruses journal, which falsely claimed that the spike protein in COVID-19 vaccines impaired DNA repair. Despite its retraction, the study was widely used by vaccine skeptics to spread misinformation. Similarly, another retracted paper from MDPI's Vaccines journal falsely claimed that vaccine risks outweighed the benefits, further fueling vaccine hesitancy. These examples show the role of predatory journals in spreading misinformation and damaging public trust in science.
