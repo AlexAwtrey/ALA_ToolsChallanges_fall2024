@@ -41,7 +41,7 @@ When faced with feedback that I disagree with, I would first evaluate the commen
 
 In cases where feedback from one reviewer contradicts another, I address both sets of comments in my revision. I would draft a detailed response where I acknowledge the different opinions, justifying how I have chosen to address or incorporate their feedback. By clearly articulating my thought process and revising the manuscript to integrate the constructive elements from each reviewer's input, I would demonstrate my commitment to improving the quality of my research while maintaining the integrity of my original work. This approach will hopefully enhance the manuscript and foster a productive dialogue with reviewers, leading to a more refined publication.
 
-# Predatory Journal 
+# Predatory Journal
 
 ## September 20, 2024
 
@@ -50,3 +50,13 @@ Predatory journals undermine scientific credibility by bypassing rigorous peer r
 As misleading studies from predatory journals are often picked up by media or shared on social platforms, the public perception of science also suffers. This creates confusion and chaos, especially when discredited research is presented alongside legitimate studies. Misleading COVID-19 treatment and prevention claims, such as those regarding hydroxychloroquine, are examples of how these journals have amplified misinformation, further complicating public understanding of scientific consensus. 
 
 A notable example involved a retracted paper from MDPI’s Viruses journal, which falsely claimed that the spike protein in COVID-19 vaccines impaired DNA repair. Despite its retraction, the study was widely used by vaccine skeptics to spread misinformation. Similarly, another retracted paper from MDPI's Vaccines journal falsely claimed that vaccine risks outweighed the benefits, further fueling vaccine hesitancy. These examples show the role of predatory journals in spreading misinformation and damaging public trust in science.
+
+# Collaborative Research and Authorship
+
+## September 27, 2024
+
+This situation presents a challenge concerning authorship ethics, which can become contentious in collaborative research. If I were one of Dr. Andrews' collaborators, I would approach this situation cautiously, considering both the principles of fair authorship and the contributions of each individual to the research papers. I wouldn’t automatically agree to have Dr. Andrews as an author on every paper, especially if she had minimal or no direct involvement in the implementation, data analysis, or manuscript writing for these projects. While she played an essential role in securing the funding and the research idea, authorship should reflect intellectual contributions to the research process. If her involvement was limited to the initial stages of the project, it's not justified for her to appear on every paper unless her role in shaping specific studies or papers is clear.
+
+Dr. Andrews' request is not unreasonable—she secured the grant and devising the original concept. It would have been much more straightforward had this expectation been communicated from the start. According to most authorship guidelines (like those from the International Committee of Medical Journal Editors, ICMJE), authorship is generally tied to “substantial contributions to the conception, design, execution, or interpretation of the data in specific studies.” In this case, if Dr. Andrews had little to no involvement in the research after the funding stage, automatically assigning her authorship on all papers could be considered unfair to those who made direct contributions.
+
+To discuss this with Dr. Andrews, I would acknowledge her role in launching the project and securing the funding. I would explain that while her initial contributions are appreciated, the authorship of individual papers should reflect the contributions to each study and its associated writing. Dr. Andrews’ request reflects the tricky nature of collaborations and authorship expectations. She played an essential role at the project’s inception, authorship decisions should follow established guidelines, and recognition should be given to those who contributed significantly to the research and writing process. A conversation, focusing on transparency and authorship ethics, would be the best way to resolve the situation.
