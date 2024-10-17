@@ -60,3 +60,15 @@ This situation presents a challenge concerning authorship ethics, which can beco
 Dr. Andrews' request is not unreasonable—she secured the grant and devising the original concept. It would have been much more straightforward had this expectation been communicated from the start. According to most authorship guidelines (like those from the International Committee of Medical Journal Editors, ICMJE), authorship is generally tied to “substantial contributions to the conception, design, execution, or interpretation of the data in specific studies.” In this case, if Dr. Andrews had little to no involvement in the research after the funding stage, automatically assigning her authorship on all papers could be considered unfair to those who made direct contributions.
 
 To discuss this with Dr. Andrews, I would acknowledge her role in launching the project and securing the funding. I would explain that while her initial contributions are appreciated, the authorship of individual papers should reflect the contributions to each study and its associated writing. Dr. Andrews’ request reflects the tricky nature of collaborations and authorship expectations. She played an essential role at the project’s inception, authorship decisions should follow established guidelines, and recognition should be given to those who contributed significantly to the research and writing process. A conversation, focusing on transparency and authorship ethics, would be the best way to resolve the situation.
+
+# Sharing Data
+
+## October 4th, 2024
+
+Sharing manuscripts on pre-print servers before journal acceptance is a popular strategy for promoting open science. One advantage is the ability to disseminate research findings quickly, allowing other scientists to access and build upon new knowledge. This fosters collaboration and accelerates scientific progress. Pre-prints allow authors to receive early feedback from the broader scientific community, which can improve the quality of the final publication.
+
+Pre-printing can sometimes lead to issues with journal acceptance, as not all journals are open to considering pre-printed work. The lack of formal peer review on pre-print servers means that the research might be cited or used before it has been thoroughly vetted, which could spread misleading or incorrect information. There is also the potential for plagiarism or misuse of ideas when work is publicly accessible before formal publication.
+
+I believe the benefits of pre-printing outweigh the risks, and I would consider using pre-print servers for future manuscripts. The ability to share my work with the community early and engage in open feedback seems valuable in fast-moving fields such as virology. I would be cautious about selecting an appropriate journal that allows pre-prints to avoid complications during submission.
+
+\
