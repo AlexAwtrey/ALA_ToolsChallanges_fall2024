@@ -71,4 +71,10 @@ Pre-printing can sometimes lead to issues with journal acceptance, as not all jo
 
 I believe the benefits of pre-printing outweigh the risks, and I would consider using pre-print servers for future manuscripts. The ability to share my work with the community early and engage in open feedback seems valuable in fast-moving fields such as virology. I would be cautious about selecting an appropriate journal that allows pre-prints to avoid complications during submission.
 
-\
+# Ethical Publishing and Journals
+
+## October 18th, 2024
+
+I would define an "ethical journal" as a publication that upholds principles of fairness, transparency, and integrity throughout its editorial and publishing processes. Ideally, this would include a rigorous and impartial peer review process where submissions are judged on scientific merit, without bias toward the authors' career stage, institutional affiliation, or geographic location. Ethical journals ensure transparency by openly sharing their editorial policies, review procedures, and publication costs, avoiding hidden fees or exploitative practices like exorbitant article processing charges (APCs). These journals should also address research misconduct such as plagiarism or data manipulation and promote correcting errors through retractions or corrections when necessary.
+
+In the context of the publishing system critiqued by Receveur et al. (2024) in "David versus Goliath: Early Career Researchers in an unethical publishing system," an ethical journal also fosters inclusivity and actively supports early-career researchers (ECRs). This support can take the form of mentorship, fair recognition for peer review contributions, and removing financial and systemic barriers that disproportionately affect ECRs. Ethical journals do not prioritize commercial interests over scientific rigor; instead, they focus on advancing knowledge and ensuring that the publication process is accessible, fair, and equitable for all researchers, especially those most vulnerable to exploitation in the current publishing landscape.\
