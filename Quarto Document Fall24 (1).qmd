@@ -1,0 +1,109 @@
+---
+title: ""ALA_ToolsChallanges_Fall2024""
+format: html
+editor: visual
+---
+
+## **Alex Awtrey** ala0078\@auburn.edu
+
+Tools and Challanges for the Modern Scientist
+
+WILD7970 Fall 2024
+
+# Declines in Disruptive Science
+
+## August 30, 2024
+
+One of the historically disruptive papers in virology is the 1970 paper by Howard Temin titled "RNA dependent DNA polymerase in virions of Rous sarcoma virus". This paper was significant as it identified transcriptase—a key enzyme enabling RNA to undergo reverse transcription into DNA— which was a groundbreaking discovery that disagreed with the theory of a unidirectional flow of genetic information from DNA, to RNA to proteins. The discovery of transcriptase shed light on the way retroviruses like HIV work and paved the way for the advancement of antiretroviral treatments that revolutionized the management of HIV/AIDS patients. This breakthrough became the foundation for molecular biology methods such as generating complementary DNA (cDNA) and employing reverse transcription polymerase chain reaction (RT PCR) which is an "everyday" tool in virology research.
+
+In last 5 years, one of the most disruptive papers in the field of virology is the 2020 research paper by Zhou and colleagues titled "An outbreak of pneumonia linked to a new coronavirus likely originating from bats ". This study conducted an examination of SARS CoV–2，the virus that causes COVID–19 and established it as a newly discovered coronavirus closely associated with bat coronaviruses, providing insights into its genetic material which is essential for developing diagnostic tests and vaccines. The swift sharing and distribution of this data enabled scientists worldwide understand the structure of the virus and paved the way for the creation of vaccines in a very short period of time. This research enhanced our knowledge of coronaviruses and transformed the field of vaccine development.
+
+The disruptivness of virology research remains consistent as it evolves its focus over time. Today virology thrives on innovation spearheaded by cutting edge technologies like CRISPR for modifying genes, AI for drug development, and mRNA technology for vaccine creation. The recent COVID 19 pandemic has emphasized the consistent evolution of virology research. Discoveries that completely change our understanding viruses, like the discovery of transcriptase, may not happen very often; instead we're seeing a new type of "disruption” driven by combining different disciplines and fast technological progressions.
+
+# Scientific Computation
+
+## September 6, 2024
+
+In my laboratory, scientific computing plays a minor role, however, we use tools like Excel for data analysis and management. From the open discussion, I noticed that my colleagues face challenges with Excel’s limitations for handling larger datasets or more complex analyses. Challenges arise in handling larger datasets or complex analyses, where Excel's functionality may be limited or cumbersome. 
+
+Seeking advice from colleagues on the best tools for specific tasks seems the most beneficial, as it helps identify more efficient methods. Effective data management and real-time analysis ("working on data as you go") also seem essential. This ensures consistency and accuracy when processing data while storing it in applications like Dropbox along the way to avoid losing your files. Moving beyond Excel, integrating more specialized tools like R, Python, or other analysis tools could enhance data visualization making research more streamlined.
+
+Collective knowledge-sharing has been a significant part of my academic growth. I believe this could prepare me to apply computation techniques in future work during my master's. As a non-thesis master's student, I don't have a project to gather and analyze data, however, i found this discussion very informative and hope to apply some of these tips to my collaborative efforts in my lab. 
+
+# Peer Review
+
+## September 13, 2024
+
+Navigating conflicting reviewer feedback can be challenging but constructive. A significant issue is reviewer bias. Reviewers might bring their preferences into their evaluations, which can skew the input and lead to recommendations that may not be entirely objective. For instance, a reviewer might have a preference for a particular methodology or theoretical framework, Sometimes reviewers have been known to give feedback for personal gain such as by suggesting citations from their work. 
+
+When faced with feedback that I disagree with, I would first evaluate the comments in the context of my manuscript's objectives and methodology. I would try to understand the thought process behind each reviewer's suggestions, considering whether their points may highlight areas of improvement I had previously overlooked. To manage discrepancies between reviewers' feedback, I would weigh the merits of each perspective against the evidence and arguments presented in my manuscript. 
+
+In cases where feedback from one reviewer contradicts another, I address both sets of comments in my revision. I would draft a detailed response where I acknowledge the different opinions, justifying how I have chosen to address or incorporate their feedback. By clearly articulating my thought process and revising the manuscript to integrate the constructive elements from each reviewer's input, I would demonstrate my commitment to improving the quality of my research while maintaining the integrity of my original work. This approach will hopefully enhance the manuscript and foster a productive dialogue with reviewers, leading to a more refined publication.
+
+# Predatory Journal
+
+## September 20, 2024
+
+Predatory journals undermine scientific credibility by bypassing rigorous peer reviews. This sometimes leads to flawed or false research getting published. In fields like virology, where good science is critical for public health, such publications can lead to harmful medical interventions or misguided policy decisions. These journals lower the standards of research, letting poorly designed studies gain legitimacy and affects governmental and public discourse.
+
+As misleading studies from predatory journals are often picked up by media or shared on social platforms, the public perception of science also suffers. This creates confusion and chaos, especially when discredited research is presented alongside legitimate studies. Misleading COVID-19 treatment and prevention claims, such as those regarding hydroxychloroquine, are examples of how these journals have amplified misinformation, further complicating public understanding of scientific consensus. 
+
+A notable example involved a retracted paper from MDPI’s Viruses journal, which falsely claimed that the spike protein in COVID-19 vaccines impaired DNA repair. Despite its retraction, the study was widely used by vaccine skeptics to spread misinformation. Similarly, another retracted paper from MDPI's Vaccines journal falsely claimed that vaccine risks outweighed the benefits, further fueling vaccine hesitancy. These examples show the role of predatory journals in spreading misinformation and damaging public trust in science.
+
+# Collaborative Research and Authorship
+
+## September 27, 2024
+
+This situation presents a challenge concerning authorship ethics, which can become contentious in collaborative research. If I were one of Dr. Andrews' collaborators, I would approach this situation cautiously, considering both the principles of fair authorship and the contributions of each individual to the research papers. I wouldn’t automatically agree to have Dr. Andrews as an author on every paper, especially if she had minimal or no direct involvement in the implementation, data analysis, or manuscript writing for these projects. While she played an essential role in securing the funding and the research idea, authorship should reflect intellectual contributions to the research process. If her involvement was limited to the initial stages of the project, it's not justified for her to appear on every paper unless her role in shaping specific studies or papers is clear.
+
+Dr. Andrews' request is not unreasonable—she secured the grant and devising the original concept. It would have been much more straightforward had this expectation been communicated from the start. According to most authorship guidelines (like those from the International Committee of Medical Journal Editors, ICMJE), authorship is generally tied to “substantial contributions to the conception, design, execution, or interpretation of the data in specific studies.” In this case, if Dr. Andrews had little to no involvement in the research after the funding stage, automatically assigning her authorship on all papers could be considered unfair to those who made direct contributions.
+
+To discuss this with Dr. Andrews, I would acknowledge her role in launching the project and securing the funding. I would explain that while her initial contributions are appreciated, the authorship of individual papers should reflect the contributions to each study and its associated writing. Dr. Andrews’ request reflects the tricky nature of collaborations and authorship expectations. She played an essential role at the project’s inception, authorship decisions should follow established guidelines, and recognition should be given to those who contributed significantly to the research and writing process. A conversation, focusing on transparency and authorship ethics, would be the best way to resolve the situation.
+
+# Sharing Data
+
+## October 4th, 2024
+
+Sharing manuscripts on pre-print servers before journal acceptance is a popular strategy for promoting open science. One advantage is the ability to disseminate research findings quickly, allowing other scientists to access and build upon new knowledge. This fosters collaboration and accelerates scientific progress. Pre-prints allow authors to receive early feedback from the broader scientific community, which can improve the quality of the final publication.
+
+Pre-printing can sometimes lead to issues with journal acceptance, as not all journals are open to considering pre-printed work. The lack of formal peer review on pre-print servers means that the research might be cited or used before it has been thoroughly vetted, which could spread misleading or incorrect information. There is also the potential for plagiarism or misuse of ideas when work is publicly accessible before formal publication.
+
+I believe the benefits of pre-printing outweigh the risks, and I would consider using pre-print servers for future manuscripts. The ability to share my work with the community early and engage in open feedback seems valuable in fast-moving fields such as virology. I would be cautious about selecting an appropriate journal that allows pre-prints to avoid complications during submission.
+
+# Ethical Publishing and Journals
+
+## October 18th, 2024
+
+I would define an "ethical journal" as a publication that upholds principles of fairness, transparency, and integrity throughout its editorial and publishing processes. Ideally, this would include a rigorous and impartial peer review process where submissions are judged on scientific merit, without bias toward the authors' career stage, institutional affiliation, or geographic location. Ethical journals ensure transparency by openly sharing their editorial policies, review procedures, and publication costs, avoiding hidden fees or exploitative practices like exorbitant article processing charges (APCs). These journals should also address research misconduct such as plagiarism or data manipulation and promote correcting errors through retractions or corrections when necessary.
+
+In the context of the publishing system critiqued by Receveur et al. (2024) in "David versus Goliath: Early Career Researchers in an unethical publishing system," an ethical journal also fosters inclusivity and actively supports early-career researchers (ECRs). This support can take the form of mentorship, fair recognition for peer review contributions, and removing financial and systemic barriers that disproportionately affect ECRs. Ethical journals do not prioritize commercial interests over scientific rigor; instead, they focus on advancing knowledge and ensuring that the publication process is accessible, fair, and equitable for all researchers, especially those most vulnerable to exploitation in the current publishing landscape.
+
+# Statistics, P-Values, & Reproducibility
+
+## October 25th, 2024
+
+In response to my family member, I would say: You're right—it's often said that you can use statistics to "prove" almost anything. Statistics can be easily manipulated or misinterpreted if the analysis isn't done carefully or the data is presented with an agenda. People cherry-pick certain data points, misuse statistical tests, or present results without proper context, which can mislead others into drawing incorrect conclusions. It’s a risk in research, and it’s why transparency in methodology and ethically reporting results is critical.
+
+This is why I use blind data analysis to make sure my results aren't tampered with by me or my colleagues. With blind analysis, I analyze the data without knowing which groups or conditions are which; this prevents any biases or expectations from influencing the results. It’s a way to keep myself “honest” with the data and not subconsciously nudge it toward what I think or hope to find.
+
+By carefully choosing the correct statistical methods for my questions, I can be more confident that my findings reflect true correlations in the data, not artifacts of how I handled or expected the results. I also test the assumptions of each statistical test to ensure they align with my data. These precautions mean my results are both reliable and scientifically sound, not just a result of "playing around" with numbers until they look favorable. Yes, statistics can sometimes be misused, but there's a lot we can do to safeguard against that. A transparent approach is key to making sure our conclusions are valid and meaningful—and not just made to "look good" on paper!
+
+# Mental Health
+
+## November 8th, 2024
+
+Supporting the mental health of graduate students starts with open communication and trust. Regular check-ins and one-on-one meetings provide a safe space for students to discuss academic progress and any personal challenges they may face. Clear expectations are also key; I would provide goals and timelines while respecting students and encouraging them to take time off when needed. I’d let them know that their well-being is as important as their academic work, establishing an environment where they feel comfortable seeking help and speaking up about stress which in turn could boost productivity.
+
+A supportive lab culture can reduce stress and maintain a positive work environment. I would promote collaboration, celebrate small wins, and normalize setbacks as part of the learning process. I’d encourage students to build a network of mentors and peers they can lean on for advice and guidance, as a strong support system can be invaluable during difficult times. I’d also encourage students to maintain a work-life balance by emphasizing the importance of self-care and ensuring flexibility when personal issues arise. Modeling healthy work habits myself can reinforce this culture.
+
+Guiding students toward their long-term goals can help mitigate the uncertainty and anxiety associated with graduate school. Discussing their career ambitions early and frequently and helping them create a clear plan for life after graduation would give them direction and reduce fears about the future. This can help students feel better equipped to handle the demands of graduate school. By prioritizing their personal growth alongside academic achievement, I’d aim to create a balanced and nurturing environment that supports mental health and professional development.
+
+# Science Communication
+
+## November 15th, 2024
+
+For my guest episode on “Real Talk with Real Scientists”, I’d choose to discuss the topic of vaccines, particularly the controversy surrounding vaccine safety and efficacy. This issue has been at the heart of public debates for over two decades, fueled by misinformation and fear mongering. The controversy began in the late 1990s with the now-debunked study by Andrew Wakefield, which falsely linked the MMR (measles, mumps, and rubella) vaccine to autism. Despite that study being retracted and discredited, it sparked a wave of skepticism about vaccines that continues to shape public opinion today. Vaccine misinformation is often amplified by social media, where misleading narratives can spread faster than scientific evidence.
+
+To clarify misconceptions, I would emphasize the evidence showing that vaccines are both safe and effective. I would explain how vaccines work by training the immune system to recognize and fight pathogens without causing the disease itself. When you get vaccinated, your immune system "learns" how to protect you from serious infections, like measles or COVID-19, by recognizing specific virus parts called antigens. I would also address common misconceptions, such as the idea that vaccines cause autism, which is not supported by any credible scientific evidence. The rigorous testing vaccines undergo in clinical trials and ongoing monitoring once they are approved shows their safety and benefits far outweigh any potential risks.
+
+Finally, I would work to build trust in the scientists and medical professionals behind vaccine development by highlighting the transparent and collaborative nature of modern scientific research. I’d explain how vaccines are developed through peer-reviewed studies, subject to continuous scrutiny by independent experts, and undergo multiple phases of testing before being approved for use. It's also important to note that vaccine safety is constantly monitored after approval, through systems like the Vaccine Adverse Event Reporting System (VAERS), which allows for real-time data collection and response. By emphasizing the collective efforts of scientists, public health officials, and healthcare workers, I would show how science, at its core, is about improving public health and protecting vulnerable populations.
